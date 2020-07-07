@@ -14,7 +14,7 @@ The more commonly accepted theory traces back to Scandinavian raiders bringing t
 The name of the breed is as difficult to nail down as is its origin. One school combines the Welsh word "cor," which means "to watch over or gather" with "gi," a form of the Welsh word for dog. This was certainly a responsibility of these small cattle herders and homestead guardians. Another ascribes the word corgi as the Celtic word for dog and that the Norman invaders thereafter referred to any local dog as a "cur" or mongrel. Finally, legend pops up again with the interpretation that the word "cor" means "dwarf." Combine that with the Welsh form for dog "gi" and you have "dog of the dwarfs or "dwarf dog." For many years Corgis (both breeds) were referred to as either "Ci-llathed" meaning "yard long dog" (we're talking a Welsh yard here) or as "Ci Sawdlo" due to its nature of nipping at cattle's heels.
 
 ## Appearance
-![Cute Corgi](images/corgi.jpg)
+![Cute Corgi](https://github.com/eunlimkim/markdown/blob/master/corgi.jpg)
 
 Beutiful cute corgi jumping picture
 
@@ -25,7 +25,7 @@ Breed faults exist; some which may acknowledge genetic health conditions such as
 Some Pembroke Welsh Corgis are born with their tail naturally short or missing. Others may have their tails docked between 2–5 days old due to historical tradition or in order to conform to the Breed Standard. Artificial docking was needed for the dog to do its job as a herding dog in the United Kingdom. A non-herding, "companion" dog was considered a luxury under tax law, and attracted a tax, so to demonstrate that their dogs were herding dogs, owners had to ensure the dogs had docked or bobbed tails. The Kennel Club, the United Kennel Club, and the FCI allow intact tails in Conformation shows. The AKC Standard states tails should be docked no longer than 2 inches (5 cm). In many countries, docking has been deemed illegal.
 
 ## Queen Elizabeth's Corgis
-![Corgis with Queen Elizabeth](images/corgis.jpg)
+![Corgis with Queen Elizabeth](https://github.com/eunlimkim/markdown/blob/master/corgis.jpg)
 
 Beutiful cute corgis with Queen Elizabeth
 
